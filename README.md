@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Paul
 - 🌱 I’m currently learning Python, JavaScript, C++
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @
-- ⚡ Fun fact: I love 
+- 📫 How to reach me: viserionthewraith121@gmail.com
+- ⚡ Fun fact: I love video games🎮
 
 <!---
 pjknsiah/pjknsiah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
