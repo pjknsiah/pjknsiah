@@ -4,11 +4,11 @@ A Computer Science Major at KNUST. I love turning data into insights with AI/ML 
 
 📫 **How to reach me** [pnsiahkjunior@gmail.com](mailto:pnsiahkjunior@gmail.com)
 
-### Connect with me:
+## Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/paulnsiahkwabena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/pjknsiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://x.com/pjknsiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
