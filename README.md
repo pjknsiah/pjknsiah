@@ -1,6 +1,6 @@
 # Hi 👋, I'm Paul
 
-A Computer Science Major from KNUST. I love turning data into insights with AI/ML and finding ways to make systems more secure.
+Computer Science Major from KNUST. I love turning data into insights with AI/ML and finding ways to make systems more secure.
 
 📫 **Shoot me an email** [pnsiahkjunior@gmail.com](mailto:pnsiahkjunior@gmail.com)
 
