@@ -1,4 +1,4 @@
-# Hi 👋, I'm Paul
+# Hey 👋, I'm Paul
 
 Computer Science Major from KNUST. I love turning data into insights with AI/ML and finding ways to make systems more secure.
 
