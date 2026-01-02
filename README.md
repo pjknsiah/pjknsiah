@@ -9,7 +9,7 @@ Computer Science Major from KNUST. I love turning data into insights with AI/ML 
 <p align="left">
 <a href="https://linkedin.com/in/paulnsiahkwabena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/pjknsiah" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/000000" alt="_yawosei" height="30" width="40" /></a>
-</p>
+</p> 
 
 ### My Tech Stack:
 
