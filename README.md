@@ -15,7 +15,7 @@ Computer Science Major from KNUST. I love turning data into insights with AI/ML 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,linux,mysql,postgres,git,html,css,js,bash" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,aws,docker,linux,mysql,postgres,git,html,css,js,bash" />
   </a>
 </p>
 
